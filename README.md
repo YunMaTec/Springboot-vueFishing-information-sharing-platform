@@ -4,19 +4,20 @@
 # 一、B站演示视频地址
 https://www.bilibili.com/video/BV1JYRjYoEkt/?spm_id_from=333.1387.upload.video_card.click&vd_source=b9d9b1d316b235639477476cced11e94
 # 二、功能架构图
+![image](https://github.com/user-attachments/assets/50b45d4a-28d4-4e5c-9348-f7c3773c61e2)
 
 # 三、部分项目截图
-管理员登录
+## 管理员登录
 ![image](https://github.com/user-attachments/assets/0519260c-4952-4cad-a012-25740ac3c0f3)
-资讯公告管理
+## 资讯公告管理
 ![image](https://github.com/user-attachments/assets/36a54a0c-8458-4357-abdb-6003246962fe)
-用户管理
+## 用户管理
 ![image](https://github.com/user-attachments/assets/5473f71c-c111-4ce2-a772-75c49799b91c)
-评论管理
+## 评论管理
 ![image](https://github.com/user-attachments/assets/ee639db4-9251-42cf-8eec-c5b994ecc096)
-数据管理
+## 数据管理
 ![image](https://github.com/user-attachments/assets/26f4eebc-b8df-413f-9c31-6d60842de3ca)
-注册与登录
+## 注册与登录
 ![image](https://github.com/user-attachments/assets/48e49a5f-751c-4d16-aba6-1ff6c26ce78e)
 
 ![image](https://github.com/user-attachments/assets/6f7f5005-ec43-468c-89fa-3168d93f3000)
